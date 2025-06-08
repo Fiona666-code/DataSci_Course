@@ -1,0 +1,14 @@
+Homework_Xuying Liu
+Questions 
+Q1. Perform an analysis of the demand in which the patterns of variation for the demand of electric and classic bikes are compared. Are classic bikes lagging behind electric bikes?
+Q2. Check that the information about the start and end stations is missing only for electric bikes. If you take this missingness as an indication of dockless bike sharing, you can examine how dockless sharing has evolved during these three years. Would you say that dockless sharing is trending up?
+Q3. Which are the top-10 starting stations? Are they the same as the top-10 ending stations?
+Q4. How frequent are circular rides, starting and ending at the same station?
+
+
+
+Q5. Are there stations with very low activity, so you can consider dropping them?
+
+
+
+Q6. Seasonal patterns can be different across the stations of the Bay Wheels network. How can you detect the stations where the between-month variation is highest?
